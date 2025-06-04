@@ -1,0 +1,1 @@
+import{_ as e,c as _,o as c}from"./index.e66d7253.js";const n={},s={class:"index_page"};function t(o,a){return c(),_("div",s)}const r=e(n,[["render",t],["__scopeId","data-v-ca1df958"]]);export{r as default};
